@@ -418,8 +418,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <br />
 
-**Made with ❤️ by [Akash Singh](https://github.com/akash9569)**
-
+**Made with ❤️ by [Raj Srivastav](https://github.com/rajsrivastav344)**
+S
 <br />
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=akash9569%2FRoomMate&label=Visitors&labelColor=%23697689&countColor=%23263759)
