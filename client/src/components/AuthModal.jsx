@@ -36,7 +36,8 @@ const AuthModal = ({ show, handleClose, isLogin, onSwitch, onLoginSuccess }) => 
     const payload = isLogin ? { email, password } : { name, email, password, role };
 
     try {
-      const response = await fetch(`http://localhost:3000${endpoint}`, {
+     const response = await fetch(endpoint, {
+
         method: "POST",
         headers: {
           "Content-Type": "application/json",
